@@ -2,7 +2,7 @@
 
 
 
-获取CPU核心数目的OC代码。
+IOS获取CPU核心数目的OC代码。
 
 ```objective-c
 #include <sys/sysctl.h>
